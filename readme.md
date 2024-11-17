@@ -78,18 +78,14 @@ Will run tests in [src/lib.rs](src/lib.rs).
 cargo watch -q -- sh -c "tput reset && cargo test -q --lib"
 ```
 
-## Contribute
+## Contributing
 
 Always open to useful ideas or fixes in form of issues or PRs.
 
-Can [open new issue](../../issues/new/choose) (search [existing issues](../../issues) first) or [start discussion](../../discussions).
+Can [open new issue](../../issues/new/choose) (search [existing ones](../../issues) for duplicates first) or start discussion on [GitHub](../../discussions) or [Discord](https://discord.com/invite/TVafwaD23d).
 
-It's okay to submit draft PR as you can get help along the way to make it merge ready.
+Can submit draft PRs with good ideas/fixes. You will get help along the way to make it merge ready.
 
-Join [Discord](https://discord.com/invite/TVafwaD23d) for more indepth discussions on this repo and [others](https://github.com/nikitavoloboev#src).
-
-### 🖤
-
-[Support on GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects).
+Ask for help if you're stuck. You will be unblocked fast.
 
 [![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/TVafwaD23d) [![X](https://img.shields.io/badge/nikitavoloboev-100000?logo=X&color=black)](https://x.com/nikitavoloboev) [![nikiv.dev](https://img.shields.io/badge/nikiv.dev-black)](https://nikiv.dev)
